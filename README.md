@@ -1,4 +1,4 @@
-All my major Aerospace Engineering projects at UTA (2019-2023)
+All my major Aerospace Engineering projects at UTA (2019-2023) /n
 Courses & Projects lists: 
 MAE 3303 - Supersonic Airfoil Design 
 MAE 3314 - Heat Transfer for Silicone Chip with Heat Sink 
